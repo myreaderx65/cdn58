@@ -1,0 +1,946 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	<meta name="keywords" content="Don Dodge, Microsoft, VC, Startup, Entrepreneur, Web 2.0, Google, search, venture capital, Napster, AltaVista, " />
+	<meta name="description" content="Don Dodge from Microsoft's Emerging Business Team writes about &quot;The Next Big Thing&quot; in software. Insights into Venture Capital, startups, and technology." />
+    <link rel="canonical" href="https://dondodge.typepad.com/the_next_big_thing/" />
+
+
+
+        <link rel="stylesheet" href="https://dondodge.typepad.com/the_next_big_thing/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Don Dodge on The Next Big Thing' (Atom)" href="https://dondodge.typepad.com/the_next_big_thing/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Don Dodge on The Next Big Thing' (RSS 1.0)" href="https://dondodge.typepad.com/the_next_big_thing/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Don Dodge on The Next Big Thing' (RSS 2.0)" href="https://dondodge.typepad.com/the_next_big_thing/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8341bf9da53ef00d8341bf9dc53ef');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="Don Dodge on The Next Big Thing" />
+<meta property="og:site_name" content="Don Dodge on The Next Big Thing" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://dondodge.typepad.com/the_next_big_thing/" />
+<meta property="og:description" content="Thoughts on business and technology" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up2.typepad.com/6a00d8341bf9da53ef015433b63d3c970c-220si" />
+
+
+
+	<title>Don Dodge on The Next Big Thing</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d8341bf9da53ef00d8341bf9dc53ef" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://dondodge.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+<body class="layout-two-column-left-mb">
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+    FB.init( { apiKey: 'a279adbe87e2b3c505e777af99a5260d', xfbml: true, version: 'v2.8' } );
+};
+( function() {
+    var e = document.createElement( 'script' ); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+    document.getElementById( 'fb-root' ).appendChild( e );
+} )();
+</script>
+
+	
+	<div id="container">
+	    <div id="wrapper">
+		<div id="container-inner">
+			
+			<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://dondodge.typepad.com/the_next_big_thing/" accesskey="1">Don Dodge on The Next Big Thing</a></h1>
+		<h2 id="banner-description">
+			Thoughts on business and technology
+		</h2>
+		<div id="banner-screen"></div>
+	</div>
+	<div id="banner-bg"><a href="https://dondodge.typepad.com/the_next_big_thing/" accesskey="1">Home</a></div>
+</div>
+
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner">
+					<div id="alpha">
+						<div id="alpha-inner">
+							<!-- entry list sticky -->
+
+
+		<h2 class="date-header">January 05, 2017</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01b8d24df767970c">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2017/01/facebook-100-years-from-now.html">Facebook 100 years from now</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p class="graf graf--p graf-after--h3" id="b976">Yesterday I posted a photo on Facebook of my grandparents taken in 1917, 100 years ago. It got me thinking about what our future grandchildren will experience 100 years from now. Facebook and Google will record and preserve our life experiences for hundreds of years. Think about that.</p>
+<p class="graf graf--p graf-after--h3"><a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01b7c8c42652970b-pi" style="float: left;"><img alt="Byron P Dodge Vesta Weymouth 1917" border="0" class="asset  asset-image at-xid-6a00d8341bf9da53ef01b7c8c42652970b image-full img-responsive" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01b7c8c42652970b-800wi" style="margin: 0px 5px 5px 0px;" title="Byron P Dodge Vesta Weymouth 1917" /></a></p>
+<p class="graf graf--p graf-after--figure" id="72bb">I worked on my family genealogy over the holidays. My family landed in America in Beverly Massachusetts in 1628. There are no photos and very little text from that era, so getting a feel for the life and times of my ancestors is hard. Now imagine our future grandchildren being able to go back on our Facebook timeline and experience everything we did, everywhere we went, our views on current events, and the people we shared experiences with. Facebook captures the story of our lifetime and preserves it for future generations. Google search will allow anyone to find that history and relive the experience. That is truly amazing!</p>
+<p class="graf graf--p graf-after--p" id="aef5">This generation will be the most photographed and documented generation in history. Smartphone cameras are snapping millions of photos and videos everyday, that are uploaded to Facebook, YouTube, and Google Photos. 100 years ago photos were fairly rare for poor rural Americans. Today nearly everyone has photos and videos.</p>
+<p class="graf graf--p graf-after--p graf--last" id="4958">Facebook and Google are amazing companies built to last for hundreds of years. They will be the historical record books of our lifetime and experiences for future generations. Wall Street analysts think about the next 90 days. Google and Facebook think about the next 100 years. We should too.</p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2017%2F01%2Ffacebook-100-years-from-now.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2017/01/facebook-100-years-from-now.html">Jan 5, 2017 9:34:36 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2017/01/facebook-100-years-from-now.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01b8d24df767970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">December 06, 2016</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01bb0958d25a970d">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2016/12/google-machine-learning-news-december-2016.html">Google machine Learning news December 2016</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p dir="ltr"><strong>“Google’s Hand-Fed AI Now Gives Answers, Not Just Search Results”</strong> (Wired, Nov 29):</p>
+<p dir="ltr">“These ‘sentence compression algorithms’ just went live on the desktop incarnation of the search engine. They handle a task that’s pretty simple for humans but has traditionally been quite difficult for machines. They show how deep learning is advancing the art of natural language understanding, the ability to understand and respond to natural human speech. ‘You need to use neural networks—or at least that is the only way we have found to do it,’ Google research product manager David Orr says of the company’s sentence compression work. ‘We have to use all of the most advanced technology we have.’” &#0160;<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.wired.com/2016/11/googles-search-engine-can-now-answer-questions-human-help/&amp;source=gmail&amp;ust=1480525101818000&amp;usg=AFQjCNE2Ff02Y0Dtj-4GzOXwJdX0HI2VXw" href="https://www.wired.com/2016/11/googles-search-engine-can-now-answer-questions-human-help/" rel="noopener noreferrer" target="_blank">https://www.wired.com/2016/11/<wbr />googles-search-engine-can-now-<wbr />answer-questions-human-help/</a></p>
+<p dir="ltr"><strong>&quot;Deep Learning for Detection of Diabetic Eye Disease&quot;</strong> (Google Research Blog November 29)</p>
+<p dir="ltr">&quot;<a href="https://en.wikipedia.org/wiki/Diabetic_retinopathy">Diabetic retinopathy</a> (DR) is the fastest growing cause of blindness, with nearly <a href="http://www.idf.org/about-diabetes/facts-figures">415 million diabetic patients</a> at risk worldwide. If caught early, the disease can be treated; if not, it can lead to irreversible blindness. Unfortunately, medical specialists capable of detecting the disease are not available in many parts of the world where diabetes is prevalent.&#0160;Working closely with doctors both in India and the US, we created a development dataset of 128,000 images which were each evaluated by 3-7 ophthalmologists from a panel of 54 ophthalmologists. This dataset was used to train a deep neural network to detect referable diabetic retinopathy. We then tested the algorithm’s performance on two separate clinical validation sets totalling ~12,000 images, with the majority decision of a panel 7 or 8 U.S. board-certified ophthalmologists serving as the reference standard.&#0160;The results show that our algorithm’s performance is on-par with that of ophthalmologists. For example, on the validation set described in Figure 2, the algorithm has a <a href="https://en.wikipedia.org/wiki/F1_score">F-score</a> (combined <a href="https://en.wikipedia.org/wiki/Sensitivity_and_specificity">sensitivity and specificity</a> metric, with max=1) of 0.95, which is slightly better than the median F-score of the 8 ophthalmologists we consulted (measured at 0.91).&quot; <a href="https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html?m=1">https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html?m=1</a></p>
+<p dir="ltr"><strong>&quot;9 Ways that Google Cloud Machine Learning can help businesses&quot;</strong> (Google Blog, November 22) &quot;Maximize job recruitment with Google Cloud Jobs API, Analyze images faster with Vision API and for 80% less cost, Analyze long form docs with Cloud Translation API,&#0160;<a href="https://www.blog.google/products/docs/explore-docs-sheets-and-slides/" rel="noopener noreferrer" target="_blank">Explore</a>, Natural Language Processing translates questions into useful formulas and offers up instant answers in Google Sheets,&#0160;Graphical Processing Units (GPUs) are great for medical analysis, financial calculations, seismic/subsurface exploration, machine learning, video rendering, transcoding, scientific simulations and more.,&#0160;<a href="https://drive.googleblog.com/2016/09/save-time-with-quick-access-in-drive.html" rel="noopener noreferrer" target="_blank">Quick Access</a>&#0160;to Google Drive on Android devices to easily and instantly access files, Smart Scheduling in G Suite&#0160;can now <a href="https://gmail.googleblog.com/2016/09/save-time-with-smart-scheduling-in-Google-Calendar.html" rel="noopener noreferrer" target="_blank">schedule a time</a> and book rooms with machine assistance that includes room suggestions based on previous bookings and time suggestions that account for conflicts easiest to resolve, such as recurring 1:1 meetings.,&#0160;<a href="https://docs.googleblog.com/2016/09/ExploreinDocsSheetsSlides.html" rel="noopener noreferrer" target="_blank">Explore in Google Docs</a> taps into Google’s search engine and machine intelligence to add suggestions based on content within documents. It recommends related topics, images and more for web and mobile docs creation.,&#0160;<strong>Format presentations faster</strong>: <a href="https://docs.googleblog.com/2016/09/ExploreinDocsSheetsSlides.html" rel="noopener noreferrer" target="_blank">Explore in Google Slides</a> adds ease and speed to creating the most presentable presentations, with design <a href="https://support.google.com/docs/answer/7130307" rel="noopener noreferrer" target="_blank">suggestions</a> based on slide content.&quot;&#0160;<a href="https://blog.google/topics/google-cloud/9-new-ways-google-cloud-machine-learning-can-help-businesses/">https://blog.google/topics/google-cloud/9-new-ways-google-cloud-machine-learning-can-help-businesses/</a></p>
+<p dir="ltr"><strong>Machine learning | “This Algorithm May Well Save Your Eyesight”</strong> (Fortune, Nov 29): &#0160;“How transformative can it be when you teach a computer to read images? Well, we’re getting an early glimpse of that this morning with the release of a JAMA paper by a team of Google researchers who trained a deep convolutional neural network to read photomicroscopic images of the backs of human eyes. Varun Gulshan, Lily Peng, and colleagues used a deep learning algorithm to study 128,175 retinal images drawn from patients in the U.S. and India that were later reviewed for diabetic retinopathy (DR) by a group of 54 U.S.-licensed ophthalmologists. DR is a condition in which the tiny blood vessels in the light-sensitive tissue that lines the back of the eye (the retina) deteriorate. Chronic high blood sugar can damage the vessels, causing them to bleed or leak fluid, which distorts vision and can lead to blindness—a risk of profound concern to 415 million people with diabetes around the world.” &#0160;<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://fortune.com/2016/11/29/brainstorm-health-11-29-intro/&amp;source=gmail&amp;ust=1480616403109000&amp;usg=AFQjCNEIMtDaXoW0miJkbSQLLDMLbGg7_w" href="http://fortune.com/2016/11/29/brainstorm-health-11-29-intro/" rel="noopener noreferrer" target="_blank">http://fortune.com/2016/11/29/<wbr />brainstorm-health-11-29-intro/</a></p>
+<p dir="ltr"><strong>“Google Assistant now speaks Hindi in Allo messaging app”</strong> (VentureBeat, Dec 5): “Google is expanding the linguistic capabilities of the virtual assistant that powers its Allo messaging app with the news that it’s now conversant in Hindi. Google first announced the Google Assistant back in May, serving up a direct competitor to the likes of Microsoft’s Cortana, Apple’s Siri, and Amazon’s Alexa. Google’s incarnation is currently available to anyone via the Allo messaging app, which launched in September, though it is also integrated into the company’s Pixel smartphones and the Google Home wireless speaker. Allo represents Google’s effort to create a smart messaging app that helps you stay in touch with all your friends, while also helping you plan events and find information. It promises to &#39;keep your conversation going&#39; through its intelligent assistant and offers a &#39;smart reply&#39; feature that suggests responses to messages based on the context of the conversation.” <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://venturebeat.com/2016/12/05/google-assistant-now-speaks-hindi-in-allo-messaging-app/&amp;source=gmail&amp;ust=1481106108770000&amp;usg=AFQjCNFJ7x6C8s2uBY7IvcpUv_iC_VIE6Q" href="http://venturebeat.com/2016/12/05/google-assistant-now-speaks-hindi-in-allo-messaging-app/" rel="noopener noreferrer" target="_blank">http://venturebeat.com/2016/<wbr />12/05/google-assistant-now-<wbr />speaks-hindi-in-allo-<wbr />messaging-app/</a></p>
+<p dir="ltr"><strong>“Google Deep Mind and Elon Musk open their AI platforms to researchers”</strong> (Engadget, Dec 5): “Artificial intelligence got a big push today as both Google and OpenAI announced plans to open-source their deep learning code. Elon Musk&#39;s OpenAI released Universe, a software platform that &quot;lets us train a single [AI] agent on any task a human can complete with a computer.&quot; At the same time, Google parent Alphabet is putting its entire DeepMind Lab training environment codebase on GitHub, helping anyone train their own AI systems. DeepMind first burrowed into the public consciousness by defeating a world champion at the notoriously difficult game Go. However, to advance deep learning further, Alphabet says that such AI &#39;agents&#39; require highly detailed environments to serve as laboratories for AI research. The company is now open-sourcing that environment, called DeepMind Lab, to any programmers that want to use it. ‘DeepMind Lab is a fully 3D game-like platform tailored for agent-based AI research,’ Alphabet said in a blog. The agent floats around the environment, levitating and moving via thrusters, with a virtual camera that can track around its ‘body.’” <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.engadget.com/2016/12/05/google-and-elon-musk-open-their-ai-platforms-to-researchers/&amp;source=gmail&amp;ust=1481106108771000&amp;usg=AFQjCNGP8wUBb_NFok2LkOUvXgBcuaCYcQ" href="https://www.engadget.com/2016/12/05/google-and-elon-musk-open-their-ai-platforms-to-researchers/" rel="noopener noreferrer" target="_blank">https://www.engadget.com/2016/<wbr />12/05/google-and-elon-musk-<wbr />open-their-ai-platforms-to-<wbr />researchers/</a></p>
+<h1 class="article-headline"><span style="font-size: 10pt;"><strong>&quot;Google Artificial Intelligence Whiz Describes Our Sci-Fi Future&quot; </strong>(Fortune, November 26)</span><strong>&#0160;</strong></h1>
+<p>&quot;The Google Brain research team has created over 1,000 so-called deep learning projects that have supercharged many of Google’s products over the past few years like YouTube, translation, and photos. With <a href="http://fortune.com/2016/09/27/machine-learning/">deep learning</a>, researchers can feed huge amounts of data into software systems called neural nets that learn to recognize patterns within the vast information faster than humans. Human vision is trained mostly by unsupervised learning. You’re a small child and you observe the world, but occasionally you get a supervised signal where someone would say, “That’s a giraffe” or “That’s a car.” And that’s your natural mental model of the world in response to that small amount of supervised data you got. We need to use more of a combination of supervised and unsupervised learning. We’re not really there yet, in terms of how most of our machine learning systems work.&quot; <a href="http://fortune.com/2016/11/26/google-artificial-intelligence-jeff-dean/">http://fortune.com/2016/11/26/google-artificial-intelligence-jeff-dean/</a></p>
+<h1 class="article-headline">&#0160;</h1>
+<p dir="ltr">&#0160;</p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2016%2F12%2Fgoogle-machine-learning-news-december-2016.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2016/12/google-machine-learning-news-december-2016.html">Dec 6, 2016 5:58:58 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2016/12/google-machine-learning-news-december-2016.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01bb0958d25a970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">November 28, 2016</h2>
+	
+	<div class="entry-category-google entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01bb09583804970d">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2016/11/how-google-is-using-machine-learning-and-ai.html">How Google is using Machine Learning and AI</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p class="graf graf--p graf-after--h3" id="aba4">Machine Learning will impact everything we do at Google. You can already see the results in Google products you use today. Artificial Intelligence, Machine Learning, Deep Learning, and Big Data are buzzwords we hear every day. What do <span class="markup--quote markup--p-quote is-other" data-creator-ids="321cd9d95225">these</span> words mean? How will Machine Learning make my life better? Let’s take a look.</p>
+<p class="graf graf--p graf-after--figure" id="453e"><span class="markup--quote markup--p-quote is-other" data-creator-ids="3ed72b8e6f1e"><strong class="markup--strong markup--p-strong"> <a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01b8d23ef61c970c-pi" style="float: left;"><img alt="Artificial Intelligence" border="0" class="asset  asset-image at-xid-6a00d8341bf9da53ef01b8d23ef61c970c img-responsive" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01b8d23ef61c970c-800wi" style="margin: 0px 5px 5px 0px;" title="Artificial Intelligence" /></a>What is Machine Learning?</strong>Isn’t that Artificial Intelligence? Not exactly.</span> Let’s spend a minute defining the terms. <span class="markup--quote markup--p-quote is-other" data-creator-ids="a0b0adbdb803">AI is a high level term used to describe any approach to make a computer smart.</span> AI started out as a programmed set of rules that could quickly sort through mountains of data to find the desired answer. <strong>But, <span class="markup--quote markup--p-quote is-other" data-creator-ids="3ed72b8e6f1e">AI rules couldn’t learn or adapt to new data</span>.</strong> You could add more “rules” to handle new data, but there was no “learning”. <span class="markup--quote markup--p-quote is-other" data-creator-ids="3ed72b8e6f1e 776a9957d6e0">Machine Learning (ML) is a new type of Artificial Intelligence (AI) that lets computers learn without being explicitly programmed.</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"> ML is a set of classifiers and algorithms that can teach themselves to grow and adapt when exposed to new data. M<strong>achine Learning can learn. This is a BIG deal.</strong> Deep Learning (DL) is a particular technique within Machine Learning. It uses an Artificial Neural Network with many layers to learn optimal model parameters. DL creates an algorithm that will automatically decide which features work best to accomplish a task. Finally, Big Data is a term used to describe LOTS of seemingly unrelated data, that upon further analysis could become very useful.</span></p>
+<blockquote class="graf graf--pullquote graf--startsWithDoubleQuote graf-after--p" id="7ef6"><em>“Machine learning is a core, transformative way by which we’re rethinking how we’re doing everything. We are thoughtfully applying it across all our products, be it search, ads, YouTube, or Play. And we’re in early days, but you will see us — in a systematic way — apply machine learning in all these areas.</em>” Sundar Pichai, Google&#0160;CEO</blockquote>
+<p class="graf graf--p graf-after--pullquote" id="c8de"><span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5 776a9957d6e0">We are already seeing Machine Learning embedded in services like Gmail, Search, Maps, and even in what ads we see.</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"> Let’s look at some examples in Gmail. </span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0 86dac5e8fbe5"><a class="markup--anchor markup--p-anchor" data-href="http://www.wikihow.com/Use-Gmail%27s-Priority-Inbox" href="https://www.wikihow.com/Use-Gmail%27s-Priority-Inbox" rel="nofollow noopener noreferrer" target="_blank"><strong class="markup--strong markup--p-strong">Priority Inbox</strong></a> automatically identifies your important incoming messages and separates them out from everything else.</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"> It learns over time what is important to you, and what isn’t. </span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0 86dac5e8fbe5"><a class="markup--anchor markup--p-anchor" data-href="https://blog.google/products/gmail/computer-respond-to-this-email/" href="https://blog.google/products/gmail/computer-respond-to-this-email/" rel="nofollow noopener noreferrer" target="_blank"><strong class="markup--strong markup--p-strong">Smart Reply</strong></a> is another Inbox feature that suggests up to three responses based on the emails you get.</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"> For those emails that only need a quick response, it can take care of the thinking and save time spent typing. This is especially helpful on mobile phones. The responses get better over time as the system learns.&#0160;</span></p>
+<p class="graf graf--p graf-after--pullquote"><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0">Google Search and Google Maps employ Machine Learning too. When you start typing in the search box it automatically anticipates what you might be looking for and provides suggested search terms. The suggestions could be based on past searches, what is popular now, or where you are at the time.&#0160;</span></p>
+<p class="graf graf--p graf-after--pullquote"><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"><a data-href="https://assistant.google.com/" href="https://assistant.google.com/" rel="nofollow noopener noreferrer" target="_blank">Google Assistant</a> is a new example of Machine Learning on Android, helping you with everyday tasks. Click on the video below to see what it can do for you. Google Assistant makes it easy to buy movie tickets while on the go, to find a perfect restaurant for your family to grab a quick bite before the movie starts, and then help you navigate to the theater. Today, Google Assistant is available on the new Google Pixel phone. Older phones have an earlier version called <a data-href="https://googleblog.blogspot.com/2013/04/google-now-on-your-iphone-and-ipad-with.html" href="https://googleblog.blogspot.com/2013/04/google-now-on-your-iphone-and-ipad-with.html" rel="nofollow noopener noreferrer" target="_blank">Google Now</a>.</span></p>
+<p class="graf graf--p graf-after--pullquote"><span class="markup--quote markup--p-quote is-other" data-creator-ids="776a9957d6e0"><a data-href="https://assistant.google.com/" href="https://assistant.google.com/" rel="nofollow noopener noreferrer" target="_blank">&#0160;</a></span></p>
+<p class="asset-video"><iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/FPfQMVf4vwQ?feature=oembed" width="500"></iframe></p>
+<p class="graf graf--p graf-after--p" id="8e99"><span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5"><a class="markup--anchor markup--p-anchor" data-href="https://www.google.com/selfdrivingcar/" href="https://www.google.com/selfdrivingcar/" rel="nofollow noopener noreferrer" target="_blank"><strong class="markup--strong markup--p-strong">Self Driving Cars</strong></a> are probably the most sophisticated example of Machine Learning in action.</span> If you drive around Mountain View, California you will likely see a Google self-driving car. They have been on campus for several years, and have logged 700,000 miles of accident-free autonomous driving. <strong class="markup--strong markup--p-strong">Watch this video to see what the onboard computers “see” and how they react as they drive the car.</strong> It is truly amazing!</p>
+<p class="graf graf--p graf-after--p">&#0160;</p>
+<p class="asset-video"><iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/bDOnn0-4Nq8?feature=oembed" width="500"></iframe></p>
+<figure class="graf graf--figure graf--iframe graf-after--p" id="7eb1">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill" style="text-align: justify;"><span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5">Machine Learning will radically transform and improve all kinds of applications.</span> <span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5">It is already seeping into things like; Security/threat detection, Fraud detection, Recommendation engines for eCommerce, NLP for legal documents, emails, patent searches, Video/voice/speech recognition, Health screening, Cancer detection, Fact checking, Weather or Financial models, and many more.</span></div>
+</div>
+</figure>
+<figure class="graf graf--figure graf--iframe graf-after--p" id="c597">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill">&#0160;<span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5">In an effort to accelerate innovation, Google is making the core Machine Learning framework <a class="markup--anchor markup--p-anchor" data-href="https://www.tensorflow.org/" href="https://www.tensorflow.org/" rel="nofollow noopener noreferrer" target="_blank">Tensor Flow</a> available as Open Source.</span> <span class="markup--quote markup--p-quote is-other" data-creator-ids="e61c65ed188f">Google Cloud is also providing access to Machine Learning APIs for <a class="markup--anchor markup--p-anchor" data-href="https://cloud.google.com/natural-language/" href="https://cloud.google.com/natural-language/" rel="nofollow noopener noreferrer" target="_blank">Natural Language Processing</a>, <a class="markup--anchor markup--p-anchor" data-href="https://cloud.google.com/speech/" href="https://cloud.google.com/speech/" rel="nofollow noopener noreferrer" target="_blank">Speech Recognition</a>, <a class="markup--anchor markup--p-anchor" data-href="https://cloud.google.com/translate/" href="https://cloud.google.com/translate/" rel="nofollow noopener noreferrer" target="_blank">Language Translation</a></span>, and <a class="markup--anchor markup--p-anchor" data-href="https://cloud.google.com/vision/" href="https://cloud.google.com/vision/" rel="nofollow noopener noreferrer" target="_blank">Vision/Image Recognition</a>.</div>
+</div>
+</figure>
+<p class="graf graf--p graf-after--p" id="f0c1"><span class="markup--quote markup--p-quote is-other" data-creator-ids="86dac5e8fbe5">If you are interested in becoming a Google Partner to take advantage of these and other Google technologies, <a class="markup--anchor markup--p-anchor" data-href="https://cloud.google.com/partners/" href="https://cloud.google.com/partners/" rel="nofollow noopener noreferrer" target="_blank">sign up here</a>.</span></p>
+<p class="graf graf--p graf-after--p" id="3ffb">Next time I will take a look at Virtual Reality and Augmented Reality (AR/VR) and how it will change the world. Click the Follow button to be notified when my next post is available.</p>
+<p class="graf graf--p graf-after--p" id="f793"><strong class="markup--strong markup--p-strong">Disclosure:</strong> Thoughts and opinions expressed here are my own, and do not necessarily reflect those of my employer.</p>
+<p class="graf graf--p graf-after--p graf--last" id="03aa"><strong class="markup--strong markup--p-strong">Bio:</strong> Don Dodge works on the Google Cloud Technology Partner team. Don is a veteran of five start-ups including Forte Software, AltaVista, Napster, Bowstreet, and Groove Networks. Prior to Google, Don was Director of Business Development for Microsoft’s Emerging Business Team. You can follow Don on <a class="markup--anchor markup--p-anchor" data-href="https://medium.com/@DonDodge" href="https://medium.com/@DonDodge" rel="noopener noreferrer" target="_blank">Medium</a>, on Twitter @DonDodge or on <a class="markup--anchor markup--p-anchor" data-href="https://www.facebook.com/dondodge" href="https://www.facebook.com/dondodge" rel="nofollow noopener noreferrer" target="_blank">Facebook</a></p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2016%2F11%2Fhow-google-is-using-machine-learning-and-ai.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2016/11/how-google-is-using-machine-learning-and-ai.html">Nov 28, 2016 6:39:45 PM</a>
+		|
+		<a href="https://dondodge.typepad.com/the_next_big_thing/google/">Google</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2016/11/how-google-is-using-machine-learning-and-ai.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01bb09583804970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">April 06, 2015</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01b8d0fd04e0970c">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2015/04/ycombinator-where-unicorns-are-born.html">Ycombinator - Where unicorns are born</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p dir="ltr" id="docs-internal-guid-aa8730dd-8f55-cc2f-e33a-aa031d63844e">Angel investing in tech startups is a gut wrenching and risky business. It sometimes feels like buying $25,000 lottery tickets. Most of them lose, but sometimes you invest in a “unicorn” and make 100 times your money or even more. The MIT Blackjack team figured out how to beat the odds in Las Vegas. Paul Graham from Harvard and Robert Morris from MIT teamed up with Trevor Blackwell and Jessica Livingston to found Ycombinator, and in the process figured out how to beat the odds in tech investing.</p>
+<p>Ycombinator is the largest and most successful startup incubator in history, and it was started right here in Cambridge, Massachusetts. Startup incubators and accelerators are everywhere today, but were relatively unknown when <a href="https://www.ycombinator.com/about/">Ycombinator</a> started 10 years ago. Ycombinator has deep roots in the area. Co-founder Paul Graham got his Masters and Doctorate degrees from Harvard. Robert Morris, another co-founder, was a professor at MIT.</p>
+<p>Paul decided to start Ycombinator after giving a talk at a Harvard Computer Club on how to start companies. Paul and his co-founders wanted to get involved in Angel investing but wanted to do it in a scalable way, involve lots of friends and advisors, and be more “hands on” than the typical Angel investor. There was no scalable way to do that at the time. Thus was born Ycombinator.</p>
+<p>Over the past 10 years YCombinator has been amazingly successful, funding 842 companies worth an estimated $30 Billion. Those companies have raised over $3B from outside investors, and 32 of those companies are now worth more than $100 Million each. Some of the most successful companies include; AirBnB, DropBox, Stripe, Twitch, Reddit, Instacart, Zenefits, Mixpanel, Weebly, Parse, Heroku, and OMGpop. At last count 89 Ycombinator companies have been acquired, while at the other end of the spectrum, 84 Ycombinator companies are no longer active and total wipe-outs.The remaining 669 companies are still operating.</p>
+<p>To put this in perspective, most early stage tech investors expect that half their companies will fail, sometimes very quickly. They all look like winners when you write the check...you just don’t know which ones will fail. But if you invest smartly, and spread your risk over a large portfolio, the winners will pay for all the losers and return a nice overall profit. The return on investment in AirBnB or Dropbox could pay for all other investments. But, no matter how smart we think we are at avoiding risky startups, we can miss on surprising “unicorn” winners too.</p>
+<p><a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01bb081757ab970d-pi" style="float: left;"><img alt="Medium_YC-infographic_v4" border="0" class="asset  asset-image at-xid-6a00d8341bf9da53ef01bb081757ab970d image-full img-responsive" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01bb081757ab970d-800wi" style="margin: 0px 5px 5px 0px;" title="Medium_YC-infographic_v4" /></a></p>
+<p dir="ltr">&#0160;<a href="https://en.wikipedia.org/wiki/Dropbox_(service)">DropBox</a> is one of those Ycombinator Cambridge winners that most investors missed, including me. Drew Houston was born in Acton, and met his co-founder Arash Ferdowsi at MIT. They were part of the Ycombinator Cambridge class of 2007, after being rejected by YC in 2005 and 2006. I remember the Demo Day in 2007 where DropBox presented to about 30 Boston area Angels and Venture Capital investors. None of the local VC firms invested. Seeing little opportunity here, Drew and Arash moved the company to Silicon Valley later that year. They got their initial funding of $1.2M from Sequoia Capital and have gone on to raise over $1 Billion from VC investors. Dropbox is expected to IPO in 2015 at a valuation exceeding $10 Billion.</p>
+<p>In fairness to the investors in the room that day in Cambridge it was not at all obvious that Dropbox would succeed. The problem they were solving was not one I had experienced, and the product demo didn’t work very well at the time. Two years earlier I saw another Boston based startup called Carbonite pitch a similar cloud backup solution to investors. Many investors passed on that too. The reason was that Microsoft, Google, Apple, and other large technology companies already offered cloud file storage and backup for free or very low cost.</p>
+<p>How could Dropbox possibly compete with Microsoft, Google, and Apple? Well, Dropbox focused on User Experience, ease of use, and cross platform support. Dropbox was so simple to use, anyone could do it. Simply drag a file and drop it in the Dropbox icon. No navigating through drop-down menus, file structures, etc. Dropbox also synched all your files in the background automatically. No action required. In addition, YC helped them identify the early adopters, how to get viral growth, and how to get the “Freemium” upsell model to work.</p>
+<p>So, what is Ycombinator? It is literally a mathematical term for a recursive function in calculus, and a good metaphor for what YCombinator does. It is a startup that creates more startups. &#0160;Ycombinator acts like a recursive loop that attracts the best entrepreneurs, which attracts the best investors, and the highest valuations, which attracts the best advisors, which comes full circle to attract the best entrepreneurs.</p>
+<p>Why do startups join the Ycombinator program? It is like a 3 month boot camp for startups. You learn everything you need to know about how to build a company. Ycombinator brings in the most successful startup founders to share their experiences building startups. They bring in experts in legal, finance, marketing, business development, design, engineering, advertising, growth hacking, and other areas. You get help refining your product vision, identifying the market, working out your business model, putting together your investor pitch, and at the end of the program, the Investor Demo Day. You will present in front of hundreds of the most successful Angel investors and Venture Capital investors.</p>
+<p>For several years Ycombinator held a summer session in Cambridge, Massachusetts and a winter session in Mountain View, California. After comparing the results of the program, and especially the local investor participation, it became clear they could be more successful holding both sessions in Silicon Valley. Despite deep local roots in Boston and strong ties to Harvard and MIT, they decided to shut down Ycombinator Cambridge and moved everything to Silicon Valley in January of 2009.</p>
+<p>Back in 2005 no one anticipated the success of YCombinator, not even its founders. Two years later in 2007 I interviewed Paul and asked him why he started Ycombinator. He said “Actually we&#39;re doing it more to help the world than individual founders. &#0160;We think the world would be immensely more productive if the best hackers started their own companies instead of marching off to work in cube farms. &#0160;Think how much more Larry and Sergey did as startup founders than they would have done if they&#39;d gone to work for a big company. &#0160;Imagine that multiplied by a hundred or a thousand.</p>
+<p>We want to make at least enough money that we don&#39;t have to stop. It would be nice to make more, but so far we have no idea whether this would be worth doing from a purely financial point of view. Classic VC funding is a well-understood model. &#0160;What we&#39;re doing is very different. &#0160;We have no idea if it will work.”</p>
+<p>Eight years later we know it worked spectacularly well. Ycombinator, the incubator of billion dollar unicorns, is a unicorn itself.</p>
+<p>This is amazing when you consider that back in 2005 Facebook, YouTube, Twitter, iPhone, and many of the successful product platforms that enabled startup innovation didn’t exist or were not well known. There were no billion dollar unicorn startups. The typical tech startup would raise about $1M on a $3M valuation. The average investor would invest $25K to $50K, and hope for an exit in 5 years that might return 5 to 10 times their money.</p>
+<p>The first few years at Ycombinator there were about 10 companies per session, and maybe 20 to 30 investors would show up at demo day. The presentations were folksy and unpolished. The companies were valued at around $3M, and rarely above $5M.</p>
+<p>Ten years later there are 114 companies presenting very polished pitches to over 500 investors spread over two days. The valuations have skyrocketed to $10M to $20M or more. The hottest companies close their investment rounds very quickly, and typically have half the money raised from inside advisors before the Demo Day. The prices have increased substantially, but the risk has not been reduced commensurately.</p>
+<p>It has never been easier to start a company, but it has never been harder to build a sustainable business. It is cheaper and easier to start a company today, and there is ample investment capital to fund it. There are lots of startup accelerators to help get the company off the ground. But, there is also a lot more competition for attention.</p>
+<p>Some investors are now spending more time prospecting startups in Boston or New York where valuations are more reasonable, and the competition is less intense. Steve Case, former founder of AOL, Startup America and Revolution Ventures, has taken it a step further. His “Rise Of The Rest” campaign goes to middle America to fund startups outside of the big tech hubs, where the valuations are far lower, and the capital is much more needed.</p>
+<p>Ycombinator started in Cambridge 10 years ago. Its greatest legacy, beyond the many successful companies, might be that it paved the way for many other startup incubators to be successful in attracting talented founders.</p>
+<p><a href="http://www.techstars.com/program/locations/boston/">TechStars Boston</a> and <a href="http://masschallenge.org/accelerator">MassChallenge</a> are doing a great job accelerating local startups. Bolt, Blade, UMass Venture Development Center, and several others are also supporting the Boston startup ecosystem. The city of Boston recently <a href="http://www.betaboston.com/news/2015/03/02/the-city-of-bostons-first-startup-czar-is-rory-cuddyer/">announced</a> a new “startup czar” to help stimulate the local startup community.</p>
+<p>Boston area investors have been more cautious than their west coast counterparts. Facebook was started by Mark Zuckerberg in his Harvard dorm. He moved the company to Silicon Valley to find the risk takers who would join him in building the company. This must change! Boston has great universities, experienced entrepreneurs, and plenty of venture capital. We need a concerted effort from investors to step up, get involved, and support local startup founders.</p>
+<p><br />Don Dodge is a Partner Developer Advocate for Google, and an advisor to Google Ventures. Don is also an Angel investor in over 30 technology startups, several of them from Ycombinator and TechStars. Prior to Google Don was a Technology Evangelist for Microsoft.</p>
+<p>This is a longer, unabridged version of a guest column I wrote for the <a href="https://www.bostonglobe.com/business/2015/04/04/combinator-beats-odds-tech-investing/5jXpU1N79Nq7ZDu9t6MMzN/story.html?event=event25#" target="_self">Boston Globe Sunday </a>edition.</p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2015%2F04%2Fycombinator-where-unicorns-are-born.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2015/04/ycombinator-where-unicorns-are-born.html">Apr 6, 2015 11:33:15 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2015/04/ycombinator-where-unicorns-are-born.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01b8d0fd04e0970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">January 01, 2015</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01b7c72be417970b">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2015/01/my-5-predictions-for-2015-and-beyond.html">My 5 predictions for 2015 and beyond</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>My 5 predictions for the tech world in 2015 and the next 5 years; Sensors, Indoor Location, Alternative networks, Wearable computers, the demise of cable TV.</p>
+<p><strong>Billions of sensors</strong> will monitor everything, and become the next platform shift in computing. Your home, car, office, and even people will have special sensors that help us manage the complexities of life.</p>
+<p><strong>Indoor Location and Positioning</strong>, enabled by Smartphones, will become a part of many existing apps, and enable new services. Think about how web maps started as a standalone application and were later embedded into all sorts of web sites. The same will happen for Indoor Location on mobile apps.</p>
+<p><strong>Alternative network for Internet of Things</strong> (IoT) will be required to realize the full potential of IoT. Those billions of sensors will require a low cost network to transmit data to the Internet. Wifi is only useful within 100 feet, and cell data plans are too expensive for tiny inexpensive sensors. A new form of low cost, meshed network, will be built to enable the IoT.</p>
+<p><strong>Wearable computers integrated with Smartphones</strong> to enable the &quot;Quantified Self&quot;. Google Glass got people thinking about how wearables could be used. Android Wear watches will eventually do everything your Smartphone can do, and much more. Wearable computers will contain sensors to monitor your body, health, and environment. They will connect to your Smartphone for computing power and network connection.</p>
+<p><strong>Cable TV will lose its stranglehold</strong> on subscribers as more content creators go direct to consumer. This year we saw HBO, Netflix, CBS, Hulu, NFL offer stand alone web/mobile subscriptions for their content. The &quot;cord cutters&quot; and &quot;cord nevers&quot; already get all the content they want without a cable TV contract. Cable TV will lose lots of subscribers as more sports and entertainment producers offer their content direct over the Internet for a low monthly subscription.</p>
+<p>Five years ago I wrote <a href="https://dondodge.typepad.com/the_next_big_thing/2010/01/predictions-for-2010-and-the-new-decade.html" target="_self">this post on predictions for 2010</a> and beyond. Pretty accurate so far. How will I do on these 5 predictions for 2015? Time will tell, but I feel pretty good about them now.</p>
+<p>Happy New Year!</p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2015%2F01%2Fmy-5-predictions-for-2015-and-beyond.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2015/01/my-5-predictions-for-2015-and-beyond.html">Jan 1, 2015 10:49:15 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2015/01/my-5-predictions-for-2015-and-beyond.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01b7c72be417970b'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">June 19, 2013</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef0192ab4b25f3970d">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2013/06/indoor-location-startups-innovating-indoor-positioning.html">Indoor Location startups innovating Indoor Positioning</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>
+<br />
+<a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef0192ab4febc4970d-pi" style="float: right;"><img alt="Google-my-location" class="asset  asset-image at-xid-6a00d8341bf9da53ef0192ab4febc4970d" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef0192ab4febc4970d-320wi" style="margin: 0px 0px 5px 5px;" title="Google-my-location" /></a>Indoor Location and Positioning technology is the Next Big Thing. It is bringing the power of GPS and Maps indoors. We spend most of our time indoors, working, shopping, eating, at the mall, at the office, on campus, etc.  Apple and Google are competing on street maps, but are also working on Indoor Location.  Lots of startups are going after this market too. In this post I will mention all that I am aware of.
+</p>
+<p><strong>One or two winners, and a hundred broken hearts</strong> - Most web or social app markets are dominated by one or two big early players due to “First Mover Advantage” or network effects and scale of the user base.  Indoor Positioning Systems will be different for two major reasons. First, there are so many potential vertical markets for applications it is unlikely one company or application could serve all the needs of those markets. Second, there are hundreds of thousands of mobile apps that can use Indoor Location in different ways. No clear leader exists today, and isn’t likely to emerge for a long time.
+</p>
+<p>
+Since no single technology is ubiquitous some companies are employing multiple technologies in their product. Many of these companies are technology providers aspiring to be ILPS platforms with APIs for application developers. Some companies may show up in multiple categories below. They are presented in alphabetical order, not order of importance.
+</p>
+<p>
+<a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef0192ab4fec84970d-pi" style="float: left;"><img alt="Phone location" class="asset  asset-image at-xid-6a00d8341bf9da53ef0192ab4fec84970d" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef0192ab4fec84970d-320wi" style="margin: 0px 5px 5px 0px;" title="Phone location" /></a>There are trade-offs to each of the technologies. WiFi is low cost and ubiquitous, but not very accurate. High precision location usually requires higher cost and infrastructure work.  Proprietary technologies can be very accurate, but cost more and aren’t ubiquitous...so the apps only work where that infrastructure is installed.
+</p>
+<p>High accuracy today is considered to be 1 to 5 meters. Medium accuracy is 6 to 10 meters, and low accuracy is over 11 meters.  Cost is a subjective thing but I will attempt a rough guess in the Low, Medium, or High cost range for each, with the symbols, $, $$, or $$$.
+</p>
+<p><strong>WiFi Triangualtion</strong> - WiFi Triangulation measures signal loss or strength from three or more WiFi hotspots to triangulate position. The app doesn’t need to access the WiFi, it just pings to measure signal strength.
+</p>
+<ul>
+<li><a href="www.ekahau.com" target="_self">Ekahau</a> (Medium/ $$)&#0160;</li>
+<li><a href="www.meridianapps.com" target="_self">Meridian</a> - acquired by Aruba Networks - (Unkown)&#0160;</li>
+<li><a href="www.navizon.com" target="_self">Navizon</a> (Medium/ $)&#0160;</li>
+<li><a href="www.proximusmobility.com" target="_self">Proximus Mobility</a> &#0160;(Unkown)&#0160;</li>
+<li><a href="www.sensewhere.com" target="_self">SenseWhere</a> (Scotland) &#0160;(Medium/ $)&#0160;</li>
+<li>WiFiSlam – acquired by <a href="www.apple.com" target="_self">Apple </a>(High/ $$)&#0160;</li>
+<li><a href="www.zoscomm.com" target="_self">ZOS Communications</a>  (Unkown)&#0160;
+</li>
+</ul>
+<p><strong>WiFi Fingerprinting</strong> - Smartphones turn on WiFi for a few seconds to get a WiFi Fingerprint and associate it with a Check-In location. Compares the current WiFi Fingerprint to a known database of Fingerprint/Location pairs.
+</p>
+<ul>
+<li><a href="www.aisle411.com" target="_self">Aisle 411</a>  (High/ $$)&#0160;</li>
+<li><a href="www.everyfit.com" target="_self">EveryFit</a>  (Unkown)&#0160;</li>
+<li><a href="www.guardly.com" target="_self">Guardly</a>  (Unkown)&#0160;</li>
+<li><a href="www.indoo.rs" target="_self">Indoo.rs</a> (Austria) (Unkown)&#0160;</li>
+<li><a href="www.insiteo.com" target="_self">Insiteo</a> (France) (High/ $$$)&#0160;</li>
+<li><a href="www.lighthousesignal.com" target="_self">Lighthouse Signal Systems</a>  (Unkown)&#0160;</li>
+<li><a href="www.polestar.eu" target="_self">PoleStar</a> (High/ $$$)&#0160;</li>
+<li><a href="www.pointinside.com" target="_self">PointInside</a> (High/ $$$)&#0160;</li>
+<li><a href="www.qubulus.com" target="_self">Qubulus</a> (Sweden) &#0160;(High/ $$$)&#0160;</li>
+<li><a href="www.walkbase.com" target="_self">WalkBase</a> (Finland) (Low/ $)&#0160;</li>
+<li><a href="www.wifarer.com" target="_self">Wifarer </a>(High/ $$$)&#0160;</li>
+<li>WiFiSlam  (High/ $$)&#0160;</li>
+<li><a href="www.y-find.com" target="_self">Yfind</a> (Singapore) (High/ $$)&#0160;
+</li>
+</ul>
+<p><strong>Beacons</strong> - Cheap, low power, radio beacons located at known positions within a building. Could be Bluetooth, High frequency radio, radio inference or other proprietary radio signals. Uses the same location triangulation methods as WiFi.
+</p>
+<ul>
+<li><a href="www.blinksight.com" target="_self">BlinkSight</a> (France) &#0160;(Unkown)&#0160;</li>
+<li><a href="www.ekahau.com" target="_self">Ekahau</a>  (Medium/ $$$)&#0160;</li>
+<li><a href="www.insiteo.com" target="_self">Insiteo</a>  (High/ $$$)&#0160;</li>
+<li><a href="www.invisitrack.com" target="_self">InvisiTrack</a>  (Unknown)&#0160;</li>
+<li><a href="www.locata.com" target="_self">Locata</a>  (Medium/ $$$)&#0160;</li>
+<li><a href="http://www.omnisense.co.uk/" target="_self">OmniSense</a>&#0160;(England)&#0160;(Medium/ $$$)&#0160;</li>
+<li><a href="www.quuppa.com" target="_self">Quuppa</a> (Finland) &#0160;(Unknown)&#0160;</li>
+<li><a href="www.teldio.com" target="_self">Teldio</a> (Canada) (Medium/ $$$)&#0160;</li>
+<li><a href="www.ubisense.net" target="_self">UbiSense</a>&#0160;(England) (Unknown)&#0160;</li>
+<li><a href="www.wisesec.com" target="_self">WiseSec</a> (Israel) (Unknown)&#0160;</li>
+<li><a href="www.zulutimecorp.com" target="_self">Zulu Time</a>  (Unknown)&#0160;
+</li>
+</ul>
+<p><strong>BlueTooth</strong> - Many electronic devices contain Bluetooth radios, including every smartphone. Bluetooth sensors can read signals from dedicated beacons, or dynamically create a mesh network of Bluetooth signals that refines location. </p>
+<ul>
+<li><a href="www.newaer.com" target="_self">Newaer</a> (Medium/ $)&#0160;</li>
+<li><a href="www.polestar.eu" target="_self">PoleStar</a>  (High/ $$$)&#0160;</li>
+<li><a href="www.proximusmobility.com" target="_self">Proximus Mobility </a>&#0160;(Unknown)&#0160;</li>
+<li><a href="www.quuppa.com" target="_self">Quuppa</a>  (Unknown)&#0160;</li>
+<li><a href="www.sensewhere.com" target="_self">SenseWhere</a>  (Medium/ $)&#0160;</li>
+<li><a href="www.wirelesswerx.com" target="_self">Wireless Werx</a>  (Unknown)&#0160;
+</li>
+</ul>
+<p><strong>Sensors</strong> (Accelerometer, Gyro, Compass, Barometer, etc) - Most smartphones contain multiple sensors that can measure your direction, turns, speed, and height above sea level to create a three dimensional view of your location. Starting with a known position from other methods such as GPS, cellular, or WiFi, the smartphone sensors can be used to track your position inside a building.&#0160;</p>
+<ul>
+<li><a href="www.aisle411.com" target="_self">Aisle 411</a>  (High/ $$)&#0160;</li>
+<li><a href="www.blinksight.com" target="_self">BlinkSight </a>&#0160;(France) &#0160;(Impulse Radio - Chip set)  (Unknown)&#0160;</li>
+<li><a href="www.everyfit.com" target="_self">EveryFit</a> (Low/ $)&#0160;</li>
+<li><a href="www.indoorgo.net" target="_self">IndoorGo</a> (Israel) (Unknown)&#0160;</li>
+<li><a href="www.lighthousesignal.com" target="_self">Lighthouse Signal Systems</a>  (Unknown)&#0160;</li>
+<li><a href="www.loctronix.com" target="_self">Loctronix </a>(Medium/ $$$) &#0160;</li>
+<li><a href="www.movea.com" target="_self">Movea</a> (France) (Unknown)&#0160;</li>
+<li><a href="www.Navisens.com" target="_self">NaviSens</a>&#0160; (Australia - moving to California) (Under development)&#0160;</li>
+<li><a href="www.pointinside.com" target="_self">PointInside</a>  (High/ $$$)&#0160;</li>
+<li><a href="www.sensewhere.com" target="_self">SenseWhere</a>  (Medium/ $)&#0160;</li>
+<li><a href="www.senionlab.com" target="_self">Senion Lab</a> (Sweden) (Unknown)&#0160;</li>
+<li><a href="www.trustedpositioning.com" target="_self">Trusted Positioning</a> (Canada) (Medium/ $$$)&#0160;</li>
+<li><a href="www.trxsystems.com" target="_self">TRX Systems</a> (High/ $$$)&#0160;
+</li>
+</ul>
+<p><strong>Indoor Lights</strong> - LED lights in the ceiling can be programmed to pulse in milli-seconds, so fast the human eye can’t detect the pulse. Your smartphone camera can detect the pulses and distinguish between different lights and triangulate your position. </p>
+<ul>
+<li><a href="www.bytelight.com" target="_self">ByteLight</a>  (High/ $)&#0160;
+</li>
+</ul>
+<p><strong>Magnetic Field</strong> - Magnetic sensors can pick up the Earth’s natural magnetic forces to determine lat/long position similar to the way a compass works, but two dimensional, and much more accurate. 
+</p>
+<ul>
+<li><a href="www.indooratlas.com" target="_self">Indoor Atlas</a> (Finland)  (Unknown)&#0160;</li>
+<li><a href="www.indoo.rs" target="_self">Indoo.rs</a> (Austria)  (Unknown)&#0160;</li>
+</ul>
+<p><strong>Cell Tower Signal</strong> – Triangulates approximate position using cell tower signal strength.
+</p>
+<ul>
+<li><a href="www.artilium.com" target="_self">Artilium</a> (Medium/ $)&#0160;</li>
+<li><a href="www.combain.com" target="_self">Combain</a> (Medium/ $)</li>
+</ul>
+<p><strong>Low Orbit Satellites</strong> – Works like GPS, but lower orbit, higher power signal can penetrate inside buildings.
+</p>
+<ul>
+<li><a href="www.nextnav.com" target="_self">NextNav</a>  (High/ $$$)&#0160;
+</li>
+</ul>
+<p><strong>Camera Technology</strong> - A ceiling or wall-mounted camera within a building compares auto-generated snapshot photos from your Smartphone. Object recognition software uses pattern matching to compare those smartphone snapshots to the wall-mounted camera to determine precise location.
+</p>
+<ul>
+<li><a href="www.where-lab.com" target="_self">WhereLab</a>  (Unknown)&#0160;</li>
+<li><a href="www.omiimii.com" target="_self">Omiimii </a>&#0160;(Israel) (Under development)&#0160;
+</li>
+</ul>
+<p><strong>Indoor Mapping</strong> (not location) – All of these positioning technologies need indoor maps to plot your position. A few companies have been creating indoor map floor plans for thousands of public buildings.
+</p>
+<ul>
+<li><a href="www.micello.com" target="_self">Micello</a>&#0160;</li>
+<li><a href="www.rfspot.com" target="_self">RFSpot</a>&#0160;</li>
+</ul>
+<p>Most of the companies above are technology providers, not application developers. An exception is Aisle411 which has both Indoor Location technology and an application for consumers and retailers.  Most application developers will choose to support multiple technologies/companies in their applications to ensure that at least one of them will be available at any given venue. </p>
+<p>
+<strong>Market Segments</strong> - Applications will emerge that target Indoor navigation, Location sharing, Location based games, Shopping list routing, Location based advertising, coupons, offers, Manufacturing, inventory, asset tracking, Workforce tracking, Defense/Intelligence, Police/Fire/First Responders. </p>
+<p>
+There will be hundreds of new applications that no one has though of yet because the technology hasn’t existed. Think back to when GPS and web maps first emerged. No one knew what to do with it beyond some trivial apps. Today location and maps are built into hundreds of applications and millions of web sites. The same will happen with Indoor Positioning technology. It will ride the wave of Smartphone market dominance. </p>
+<p>
+Some of the companies listed above will be big winners. New startups will emerge and rocket to leadership as the Indoor Location &amp; Positioning System market develops. There is room for lots of winners. An exciting place to be for the next 5 years.
+</p>
+<p><strong>Disclosure:</strong> I was an investor in WiFiSlam before it was acquired by Apple. I am currently an investor in ByteLight, and an advisor to Aisle411 and Navisens. I work for Google which has, and continues to develop, Indoor Location technology.</p>
+<p><span style="color: #c00000;"><strong>Subscribe</strong></span>&#0160;- To get an automatic feed of all future posts&#0160;<a href="https://feeds.feedburner.com/TheNextBigThing" target="_blank">subscribe here</a>, or to receive them via email&#0160;<a href="https://dondodge.typepad.com/the_next_big_thing/">go here and enter your email address</a>&#0160;in the box in the right column. You can also follow me on Twitter&#0160;<a href="https://twitter.com/dondodge" target="_blank">@dondodge</a>&#0160;and on&#0160;<a href="https://plus.google.com/?tab=XX#111288574156818690676/posts" target="_blank">Google+</a>&#0160;</p>
+<fieldset class="zemanta-related"><legend class="zemanta-related-title">Related articles</legend>
+<div class="zemanta-article-ul zemanta-article-ul-image" style="margin: 0; padding: 0; overflow: hidden;">
+<div class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a href="https://dondodge.typepad.com/the_next_big_thing/2012/03/echoecho-finds-your-friends-at-sxsw-even-indoors.html" style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" target="_blank"><img alt="" src="https://i.zemanta.com/78731867_80_80.jpg" style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" /></a><a href="https://dondodge.typepad.com/the_next_big_thing/2012/03/echoecho-finds-your-friends-at-sxsw-even-indoors.html" style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" target="_blank">EchoEcho finds your friends at SXSW even indoors!</a></div>
+<div class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a href="https://dondodge.typepad.com/the_next_big_thing/2010/11/startups-play-poker-big-companies-play-chess.html" style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" target="_blank"><img alt="" src="https://i.zemanta.com/27615399_80_80.jpg" style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" /></a><a href="https://dondodge.typepad.com/the_next_big_thing/2010/11/startups-play-poker-big-companies-play-chess.html" style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" target="_blank">Startups play poker, big companies play chess</a></div>
+<div class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/leaders-in-indoor-location-positioning-technology.html" style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" target="_blank"><img alt="" src="https://i.zemanta.com/157684134_80_80.jpg" style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" /></a><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/leaders-in-indoor-location-positioning-technology.html" style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" target="_blank">Leaders in Indoor Location Positioning technology</a></div>
+<div class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html" style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" target="_blank"><img alt="" src="https://i.zemanta.com/156892159_80_80.jpg" style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" /></a><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html" style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" target="_blank">Why Indoor Location will be bigger than GPS or Maps, and how it works</a></div>
+<div class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a href="http://techcrunch.com/2013/05/06/wi-fi-indoor-positioning-firm-yfind-launches-analytics-tool/" style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" target="_blank"><img alt="" src="https://i.zemanta.com/166296530_80_80.jpg" style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" /></a><a href="http://techcrunch.com/2013/05/06/wi-fi-indoor-positioning-firm-yfind-launches-analytics-tool/" style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" target="_blank">Wi-Fi Indoor Positioning Firm YFind Launches Analytics Tool</a></div>
+</div>
+</fieldset>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2013%2F06%2Findoor-location-startups-innovating-indoor-positioning.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2013/06/indoor-location-startups-innovating-indoor-positioning.html">Jun 19, 2013 2:26:23 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2013/06/indoor-location-startups-innovating-indoor-positioning.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef0192ab4b25f3970d'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">April 05, 2013</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef017c3858f205970b">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/leaders-in-indoor-location-positioning-technology.html">Leaders in Indoor Location Positioning technology</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>
+<a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017c38586ed7970b-pi" style="float: right;"><img alt="Google Indoor Location" class="asset  asset-image at-xid-6a00d8341bf9da53ef017c38586ed7970b" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017c38586ed7970b-320wi" style="margin: 0px 0px 5px 5px;" title="Google Indoor Location" /></a>Who are the big players innovating in Indoor Location and Positioning? What technologies are attracting the most attention? How will Indoor Location evolve? In my <a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html" target="_self">previous post</a> I covered the different technical approaches to Indoor Location, how they work, and some of the market uses for it. In this post I will cover some of the leading large players and their technical approaches. In an upcoming post I will cover many startups that are innovating faster than the big companies.</p>
+<p><strong>Who are the big players? </strong>Indoor Location will be a huge market, bigger than Maps or GPS. Many big companies have been researching this technology for years. Some already have products in the market. Here is a quick look at some of the players and where they fit in the technology stack.</p>
+<p><strong>Chip Sets</strong>&#0160;- Mobile chip manufacturers are consolidating the wifi, NFC (Near Field Communications), Bluetooth, cellular, and GPS radios needed to calculate indoor location, as well as sensors like accelerometers, gyros, altimeters, compass, and magnetometers into the chip sets. Leaders in this space include; <a href="http://www.broadcom.com/products/features/GNSS.php" target="_self">Broadcom</a>, <a href="http://www.qualcomm.com/chipsets/izat" target="_self">Qualcomm</a>, <a href="http://www.invensense.com/mems/gyro/nineaxis.html" target="_self">InvenSense</a>, <a href="http://www.st.com/web/en/catalog/sense_power/FM89" target="_self">STMicroelectonics</a> and <a href="http://www.csr.com/products/138/sirfstarv-architecture-and-sirfusion-platform" target="_self">CSR</a>. These chip sets provide the x,y coordinates, signal strength, direction, and other sensor data that Operating Systems and Applications can use to calculate precise location reference points.</p>
+<p><strong>
+Mobile Operating Systems - </strong>Mobile Operating Systems are also incorporating Indoor Location services that application developers can access via APIs. The big players in this space include Apple, Google, and Microsoft. Apple is late to market with Maps and even further behind with Indoor Location which is one reason why they <a href="http://blogs.wsj.com/digits/2013/03/23/apple-acquires-indoor-location-company-wifislam/tab/comments/" target="_self">recently acquired WifiSlam</a>, an indoor location startup. Expect Apple to make significant progress in this area through internal development and acquisitions.</p>
+<p>
+<a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017d4287d90c970c-pi" style="float: right;"><img alt="Westfield large" class="asset  asset-image at-xid-6a00d8341bf9da53ef017d4287d90c970c" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017d4287d90c970c-500wi" style="margin: 0px 0px 5px 5px;" title="Westfield large" /></a>Google&#39;s Android OS powers many Smartphones which already include Google Maps. Google has provided indoor maps for<a href="https://mashable.com/2012/11/23/google-maps-floor-plans/" target="_self"> over 10,000 buildings</a> including office buildings,&#0160; airports, shopping malls, and other public buildings for a long time. Google has also piloted <a href="https://googleblog.blogspot.com/2011/11/new-frontier-for-google-maps-mapping.html" target="_self">Indoor Positioning</a> using Wifi signal triangulation. Do a Google Maps search for <a href="https://maps.google.com/maps?q=Westfield+San+Francisco+Center,+Market+Street,+San+Francisco,+CA&amp;hl=en&amp;ll=37.785232,-122.415547&amp;spn=0.019468,0.04446&amp;sll=42.364414,-71.021355&amp;sspn=0.072804,0.177841&amp;oq=westfield+mall&amp;hq=Westfield+San+Francisco+Center,&amp;hnear=Market+St,+San+Francisco,+California&amp;t=m&amp;z=15&amp;iwloc=A" target="_self">Westfield Mall San Francisco</a>. Watch what happens as you zoom in to the location...an Indoor Map of the mall identifies the individual stores, and even where the hand bags are located within a store.</p>
+<p>Microsoft&#39;s Bing Maps has over <a href="http://www.webpronews.com/bing-maps-new-venue-maps-2012-06" target="_self">3,000 indoor maps </a>of airports, shopping malls, and public buildings. </p>
+<p><strong>Handset Manufacturers - </strong>The large Smartphone handset manufacturers are incorporating the location chip sets and Mobile Operating Systems into their phones. They are also adding their own software and services for location. All the major players are doing research and development on Indoor Location. These include Motorola, Nokia, Samsung, and Sony Ericsson.</p>
+<p><strong>Motorola</strong> already has <a href="http://www.motorola.com/sites/motodev/library/indoor_location_manager.html" target="_self">Indoor Location Manager</a>, and recently announced <a href="http://www.trxsystems.com/trx-systems-blog/bid/95276/Motorola-Solutions-Announces-3Q-Availability-of-TRX-Indoor-Location" target="_self">TRX Indoor Location System</a>. Motorola has been researching indoor location for many years and has a significant patent portfolio that covers wifi signals, Bluetooth technology, Inertial Navigation using sensors, and even using signals from indoor lighting.&#0160;</p>
+<p><strong>Nokia</strong> has its own indoor location technology called <a href="http://conversations.nokia.com/2012/08/23/new-alliance-helps-you-find-needle-in-a-haystack/" target="_self">HAIP </a>(High Accuracy Indoor Positioning) based on BlueTooth Low Energy beacons (BLE). Nokia also started the <a href="http://press.nokia.com/2012/08/23/accurate-mobile-indoor-positioning-industry-alliance-called-in-location-to-promote-deployment-of-location-based-indoor-services-and-solutions/" target="_self">In-Location Alliance</a> which is an industry trade group focused on Indoor Location. Nokia demoed their indoor location technology at Mobile World Congress 2012. Here is a <a href="https://www.youtube.com/watch?v=3xhKPPifTHg" target="_self">YouTube video </a>of that demo.</p>
+<p><strong>Samsung</strong> is part of the <a href="https://www.zdnet.com/samsung-and-nokia-push-for-harmony-on-indoor-mapping-tech-7000003059/" target="_self">In-Location Alliance</a> and one of the largest Smartphone manufacturers. Samsung has also done significant research on indoor location technologies including;&#0160;wifi signals, other radio signals, Bluetooth technology, Inertial Navigation using sensors, and signals from indoor lighting. In the past Samsung has relied on Operating System services for indoor location, but in the future could choose to commercialize some of its research.</p>
+<p><strong>Sony Ericsson </strong>has done research on indoor location and has a couple demonstration projects called <a href="https://developer.sonymobile.com/2011/11/11/indoor-maps-save-money-and-add-extra-value/" target="_self">SemcMap and Indoor Finder</a>. Sony Ericsson is one of the few companies to experiment with GPS signal retransmitting indoors. The idea is to mount roof top antennas to receive GPS signals and retransmit them inside the building which gets around the &quot;line of sight&quot; limitations of GPS. Sony Ericsson has also done research on <a href="http://www.telecomhall.com/what-is-rake-receiver.aspx" target="_self">Rake Receivers</a> which is basically an array of radio receivers deployed across a building that minimizes the effect of signal fading.</p>
+<p><strong>Network Equipment</strong></p>
+<p><strong>Cisco </strong>has a product called <a href="https://www.cisco.com/en/US/prod/collateral/wireless/ps9733/ps9742/data_sheet_c78-475378.html" target="_self">Mobility Service Engine</a> which is built into some of their wireless network equipment. Here the network device analyzes signal strengths of Smartphones and wireless devices to determine their position and location. This is the reverse of most solutions where the Smartphone measures the signals and determines location. Cisco has also done extensive reserach on indoor postioning using all the usual technologies and methods described above. These include wifi signal strength, wifi fingerprints, map constraints, inertial sensors, and otehrs.</p>
+<p><strong>Aruba Networks</strong>&#0160;uses location data as part of its network security. For example they measure how many times a specific phone or device has connected to the network in the past, how long they stayed connected, where they connected, and then maps that data to corporate roles and permissions for that device.&#0160;</p>
+<p>This post covered the big companies working on indoor location from a technology stack perspective. My next post will cover startups that are innovating in indoor location at the application level for consumer markets like games, social, shopping, advertising, and other areas.</p>
+<p><strong>Disclosures:</strong> I work for Google in Developer Relations. Google is very active in Android, Maps, and Indoor Location. I don&#39;t have direct knowledge of their plans and wouldn&#39;t reveal them even if I did. But, sometimes bias can creep in, so take that into consideration when reading this.</p>
+<p>I was an early investor in WifiSlam, an indoor location startup, that was acquired by Apple. I no longer have any financial interest in WifiSlam, but that experience could also bias my opinion.</p>
+<p><span style="color: #c00000;"><strong>Subscribe</strong></span>&#0160;- To get an automatic feed of all future posts&#0160;<a href="https://feeds.feedburner.com/TheNextBigThing" target="_blank">subscribe here</a>, or to receive them via email&#0160;<a href="https://dondodge.typepad.com/the_next_big_thing/">go here and enter your email address</a>&#0160;in the box in the right column. You can also follow me on Twitter&#0160;<a href="https://twitter.com/dondodge" target="_blank">@dondodge</a>&#0160;and on&#0160;<a href="https://plus.google.com/?tab=XX#111288574156818690676/posts" target="_blank">Google+</a>&#0160;</p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2013%2F04%2Fleaders-in-indoor-location-positioning-technology.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/leaders-in-indoor-location-positioning-technology.html">Apr 5, 2013 1:29:46 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2013/04/leaders-in-indoor-location-positioning-technology.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef017c3858f205970b'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">April 02, 2013</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef017c384694d0970b">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html">Why Indoor Location will be bigger than GPS or Maps, and how it works</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>
+<a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017c38467c3f970b-pi" style="float: right;"><img alt="Indoor location" class="asset  asset-image at-xid-6a00d8341bf9da53ef017c38467c3f970b" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef017c38467c3f970b-320wi" style="margin: 0px 0px 5px 5px;" title="Indoor location" /></a>Indoor Location and Positioning will be huge! <a href="http://blogs.wsj.com/digits/2013/03/23/apple-acquires-indoor-location-company-wifislam/" target="_self">Apple recently acquired WifiSlam</a>&#0160;for its&#0160;indoor mapping and positioning technology. Why? Because we spend most of our time indoors, working, shopping, eating, at the mall, at the office, on campus, etc. &#0160;Google already has Indoor Maps for many airports and shopping malls. The race is on. The explosion of Smartphones with built in sensors, accelerometer, gyro, wifi radios, and camera make indoor positioning possible.&#0160;</p>
+<p>GPS and Maps are great, but they only work outdoors and with clear line of sight to the sky. GPS was developed by the US military for battlefield location, and navigation for planes and ships. It uses 24 satellites orbiting 12,600 miles above the earth. Your GPS unit searches for 3 or 4 satellites to &quot;lock&quot; your position. Your GPS&#0160;receiver &quot;knows&quot; the location of the satellites, because that information is included in satellite transmissions. It measures the time it takes for the signal from each satellite to reach your device, calculates the distance from each, then triangulates your position...and updates it every second in real time. GPS is still remarkable decades after it was developed.</p>
+<p>You may have noticed that your Smartphone mapping system is much faster at findng your initial position than your car GPS. Why? Because your car GPS relies soley on GPS satellite signals. In heavily forested areas, or congested cities with tall buildings, it can take a long time to get a &quot;GPS lock&quot; on 3 or 4 satellites because the &quot;line of sight&quot; is blocked. Your Smartphone mapping system augments the GPS with cellular tower signals and known Wifi hotspot locations. These signals are available where GPS is hard to get. Your Smartphone searches for all types of signals, calculates which is most accurate, and provides your location on a map much faster than a regular car GPS. Smartphone GPS is truly amazing! But, Indoor Location is even more amazing. Now lets explore how it can be used, and understand how it works.</p>
+<p>Why will indoor location be big? Because indoors is where we spend money, meet friends, and where business happens. How can indoor location be used?</p>
+<p><strong>Navigation</strong> – Navigating inside large shopping malls,
+museums, airports, office buildings, college campuses, manufacturing plants,
+conference and convention venues</p>
+<p><strong>Location sharing</strong>&#0160;for Social or family apps – Sharing your
+location with family and friends at large, crowded locations, or meeting up
+after individual activities</p>
+<p><strong>Shopping list routing</strong> – Find specific aisle locations within
+stores for every item on your shopping list. Enter a search term to find
+location of any product.</p>
+<p><strong>Offers/Coupons</strong> – Receive discount coupons and offers for
+products and services you care about located in close proximity.</p>
+<p><strong>Games</strong> – Many mobile games could incorporate indoor location. Games like MyTown, Life is Crime, Tap City, Monopoly, and strategy games like Tower defense, Risk, Coalition Games, and other strategy games.&#0160;</p>
+<p><strong>Advertising by location</strong> – Targeted advertising based on
+precise location, time, and interests.</p>
+<p><strong>Manufacturing/Inventory/Asset tracking</strong> – Track movements of
+machinery, expensive inventory, assets, robots, vehicles, etc.</p>
+<p><strong>Workforce location</strong> – Real time location of personnel like doctors,
+supervisors, technicians, team members. No more public intercom announcements asking Dr. Smith to call the Emergency Room.</p>
+<p><strong>Defense/Intelligence</strong> – Tracking team members and assets on
+missions, in the dark, or in crowded locations. </p>
+<p><strong>Fire and Police</strong> - First Responder team tracking in crowded or dark
+locations.</p>
+<p><span style="font-size: 11pt;"><strong>How does Indoor Location technology work? </strong></span>Your Smartphone contains many sensors and radio receivers that can pick up all kinds of signals. Indoor location technologies use some or all of these to calculate indoor position. There are many different technical approaches to indoor positioning, and there is no clear winner yet. Until one technology achieves ubiquity it is likely that application developers will need to support multiple approaches and use whatever is available in a particular location. Here is a brief overview of each technology.</p>
+<p><strong>Wifi Triangulation</strong> – Wifi Triangulation measures signal loss
+or strength from multiple wifi hotspots to triangulate position. It is not
+necessary to connect to these wifi hotspots, only to measure the signal strength. Your phone displays signal strength in terms of &#0160;3 or 4 bars, but inside it is actually measuring signal strength very precisely. These
+services have a database of known wifi hotspots, and adds new hotspots as they
+are discovered by users. Android makes the wifi signal API available to developers so they can build location application. Apple iOS does not, so iPhone developers need to rely on other sensors and technology.</p>
+<p><strong>GPS/Cellular/Wifi Triangulation</strong> – Uses inputs from
+GPS/Cellular/Wifi, when available, to determine position. This is important for
+smooth transition from outdoor to indoor positioning. Algorithims assign
+confidence rankings to all signals to determine which signal to use, and how to
+continually refine position.</p>
+<p><strong>Wifi Fingerprinting</strong> – Smartphones turn on wifi for a few
+seconds to get a Wifi Fingerprint and associate it with a Check-In location.
+Compares the current Wifi Fingerprint to a known database of
+Fingerprint/Location pairs. Often used in conjunction with Check-in services
+like Google Places or FourSquare. This allows a more accurate location within a
+building. For example, checking into a place like Westfield Mall has many
+different Wifi Fingerprints depending on where you are in the Mall. If your
+Wifi Fingerprint is not found in its database it will ask you to enter a new
+specific location.</p>
+<p><strong>Dedicated Beacons -&#0160;</strong>Cheap, low power, radio beacons located at known positions
+within a building. The only purpose of the beacons is to transmit a unique
+signal that can be received by your Smartphone. Uses the same location
+triangulation methods as wifi, but can be more accurate due to their specific
+location and purpose. These radio beacons can transmit proprietary signals or
+standard Bluetooth 4.0 Low Energy aka BLE.</p>
+<p><strong>Bluetooth Sensors -&#0160;</strong>Many electronic devices contain Bluetooth, including every
+smartphone. These Bluetooth sensors can read signals from dedicated beacons, or
+dynamically create a mesh network of Bluetooth signals that constantly corrects
+and refines relative position and location.</p>
+<p><strong>Tracking Sensors from known positions</strong> - Most smartphones contain multiple sensors including a compass,
+gyroscope, accelerometer, altimeter, and barometer. These sensors can measure your
+direction, turns, speed, and height above sea level to create a three
+dimensional view of your location. Starting with a known position from other
+methods such as GPS, cellular, or wifi which work outside, the smartphone
+sensors can be used to track your position inside a building.</p>
+<p><strong>Magnetic sensors</strong> - Magnetic sensors can pick up the Earth’s natural magnetic
+forces to determine lat/long position similar to the way a compass works, but
+two dimensional, and much more accurate.</p>
+<p><strong>LED Lights</strong> - lights in the ceiling can be programmed to pulse in milli-seconds,
+so fast the human eye can’t detect the pulse. But, your smartphone camera can
+detect the pulses and distinguish between different lights and triangulate your
+position. The LED lights each have a unique pulse fingerprint. They can be used
+with standard light fixtures and remain in fixed positions within the building,
+making it easy to calculate location.</p>
+<p><strong>Cameras</strong> - A ceiling or wall mounted camera within a building can cover
+up to 100 square meters. The camera on your smartphone can automatically take many snapshot
+photos per second. Object recognition software uses pattern matching to compare
+those smartphone snapshots to the wall-mounted camera to determine precise
+location.</p>
+<p>In my next post I will present a fairly complete list of startups and companies that are providing indoor location services and which technologies they use. I believe there will be lots of winners in this space using a variety of different technologies, and focusing on many different vertical market segments.</p>
+<p><span style="color: #bf005f;"><strong>Subscribe</strong></span>&#0160;- To get an automatic feed of all future posts&#0160;<a href="https://feeds.feedburner.com/TheNextBigThing" target="_blank">subscribe here</a>, or to receive them via email&#0160;<a href="https://dondodge.typepad.com/the_next_big_thing/">go here and enter your email address</a>&#0160;in the box in the right column. You can also follow me on Twitter&#0160;<a href="https://twitter.com/dondodge" target="_blank">@dondodge</a>&#0160;and on&#0160;<a href="https://plus.google.com/?tab=XX#111288574156818690676/posts" target="_blank">Google+</a></p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2013%2F04%2Fwhy-indoor-location-will-be-bigger-than-gps-or-maps.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html">Apr 2, 2013 11:07:59 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2013/04/why-indoor-location-will-be-bigger-than-gps-or-maps.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef017c384694d0970b'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">August 22, 2012</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef0176176055d5970c">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2012/08/how-facebook-maximized-the-ipo-proceeds-but-botched-the-process.html">How Facebook maximized the IPO proceeds, but botched the process</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p>Most companies leave a lot of money on the table when they IPO. They price at $12 to $15 per share at the IPO and trade up to $20 - $25 on the first day, and up to $30 to $40 over the next few months. Investors are happy. The press is writing positive stories. Everyone is happy. But, the company left all that money on the table, the difference between the $12 IPO price and the $25 first day close. This can mean hundreds of millions of dollars for the company.</p>
+<p>Facebook optimized the value of the IPO to the company by pricing high, and brought in billions of dollars in cash. Facebook stock closed at $38 per share on the first day, and most of that cash went to Facebook. Great result for Facebook. They worked hard to find the share price where they could sell all the IPO shares at the highest possible price, and generate the most cash for the company.</p>
+<p>But, by doing so they disrupted the age old IPO process. Now investors are paying the price. Investors who bought the IPO shares thinking they would immediately go up 20% to 50% were sadly mistaken. In fact they have gone down 50%. The press is writing negative stories about how Facebook is declining, user growth is slowing, they don&#39;t have a good mobile strategy, and that monetization is awful. Facebook hasn&#39;t changed their strategy in the past few months...but public perception has changed.</p>
+<p>The original VC investors in Facebook, and employees who hold stock option grants are &quot;locked up&quot; and normally can&#39;t sell their shares until 6 months after the IPO. Normally there would be a Secondary Offering where they could sell their shares in an orderly fashion to institutional investors. This is why they call the first selling of stock the IPO (Initial Public Offering) and the second selling of stock &quot;The Secondary Offering&quot;. </p>
+<p>Facebook also changed up this process by letting some investors sell some stock at the IPO, and letting other early investors and employees sell their stock after 2 months, or 3 months, or some other time period they stipulated. By doing so they kind of messed up the idea of a Secondary Offering because stock was dribbling out...actually, exploding out, in chunks over the first 6 months and beyond.</p>
+<p>The Secondary Offering is normally supposed to be done about 6 months after the IPO, in a very positive environment for the company. Because there are a limited number of shares sold at the IPO there is more demand for the stock than there is supply. This creates a hot competitive environment for the stock and the price goes steadily upward. Perfect time for a Secondary Offering of the &quot;locked up&quot; shares from early VC investors and employees.&#0160;</p>
+<p>Facebook essentially can&#39;t do a Secondary Offering now because the stock price has dropped so far, so fast, that institutional investors are worried. They just heard the Facebook IPO story a few months ago, and now everything looks bleak. The press is writing negative stories. Bad timing.</p>
+<p>Facebook stock is currently trading at around $19, and has declined to about half of its opening day IPO price of $38. The price could decline even further with the hundreds of millions of shares coming off &quot;lock up&quot; flooding the market over the next several months. Normally this is done in an organized Secondary Offering to institutional investors. Instead, in the current situation, it will be totally disorganized with shares coming out at odd times, and dumped on the market for retail investors and brave mutual fund managers. The flow of shares and price can&#39;t be controlled by the IPO investment bankers the way they would with a Secondary Offering.</p>
+<p>So, Facebook did a great job maximizing the value of the IPO cash proceeds, but totally botched the normal process for an orderly Secondary Offering. Facebook did great. Investors are getting killed. Proceed with caution. With most IPOs you are probably better to wait until the dust settles, most of the locked up shares are on the market, and the company has reported a few more quarters of financial results. The stock market will stabilize around an agreeable price. This is true of most IPOs and appears to be true with Facebook too.</p>
+<p>Long term I think Facebook has a very bright future. Short term it is unpredictable and potentially dangerous for investors.</p>
+<p><strong>Disclosure:</strong> I own no Facebook shares, and my day job is with Google. I am NOT a financial advisor and am NOT giving financial advice here. This is just my opinion, and is worth what you paid for it...nothing.</p>
+<p><span style="color: #c00000;"><strong>Subscribe</strong>&#0160;</span>- To get an automatic feed of all future posts&#0160;<a href="https://feeds.feedburner.com/TheNextBigThing" target="_blank">subscribe here</a>, or to receive them via email&#0160;<a href="https://dondodge.typepad.com/the_next_big_thing/">go here and enter your email address</a>&#0160;in the box in the right column. You can also follow me on Twitter&#0160;<a href="https://twitter.com/dondodge" target="_blank">@dondodge</a>&#0160;and on&#0160;<a href="https://plus.google.com/?tab=XX#111288574156818690676/posts" target="_blank">Google+</a></p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2012%2F08%2Fhow-facebook-maximized-the-ipo-proceeds-but-botched-the-process.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2012/08/how-facebook-maximized-the-ipo-proceeds-but-botched-the-process.html">Aug 22, 2012 8:30:50 AM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2012/08/how-facebook-maximized-the-ipo-proceeds-but-botched-the-process.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef0176176055d5970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+	
+
+		<h2 class="date-header">August 16, 2012</h2>
+	
+	<div class="entry-author-dondodge entry-has-title entry-type-post entry" id="entry-6a00d8341bf9da53ef01761720af8c970c">
+					<h3 class="entry-header"><a href="https://dondodge.typepad.com/the_next_big_thing/2012/08/bill-gross-idealabs-a-different-kind-of-incubator.html">Bill Gross IdeaLabs a different kind of incubator</a></h3>
+		
+		<div class="entry-content">
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01774406bd53970d-pi" style="float: left;"><img alt="Billgross" border="0" class="asset  asset-image at-xid-6a00d8341bf9da53ef01774406bd53970d" src="https://dondodge.typepad.com/.a/6a00d8341bf9da53ef01774406bd53970d-800wi" style="margin: 0px 5px 5px 0px;" title="Billgross" /></a>Bill Gross has started over 75 companies and invested in many more. Thirty five of his companies have been acquired and 8 have gone the IPO route. Some of those companies include; Goto.com, Overture, CitySearch, NetZero, Tickets.com, CarsDirect.com, Shopping.com, eToys, Compete, Picasa (acquired by Google), InsiderPages, WeddingChannel.com, eSolar, Duron Energy, dotTV, Desktop Factory, Evolution Robotics, and UberMedia.</p>
+<p>Bill started <a href="http://www.idealab.com/about_idealab/" target="_self">IdeaLabs in 1996</a>, long before the idea of startup incubators was popular. You have to know Bill to understand why IdeaLabs was necessary. Bill has so many ideas, in so many different market segments, he couldn&#39;t possibly do them all himself. So, he started a lab, hired all the support people necessary to build companies, and hired entrepreneurs to build out his ideas.&#0160;</p>
+<p>Bill has started 75 companies, and wants to start more. The limiting factor? Not money. The limiting factor is finding entrepreneurs who want to join the team and build companies.</p>
+<p>Check out this interview with Bill Gross on my recent trip to IdeaLabs.<iframe frameborder="0" height="315" src="https://www.youtube.com/embed/oMyJ7G7c7eg" width="420"></iframe>&#0160;</p>
+<p>IdeaLabs is located in Pasadena, California in a 45,000 s.f. building. There are 12 companies in the building now, and 25 companies in the IdeaLab portfolio. They include compaines in software, hardware, energy, advertising, ecommerce, robotics, and more.</p>
+<p><strong>IdeaLab Infrastructure</strong> - Everything you need to start and build a company; Engineering, Designers, HR, Recruiters, Finance, Legal, PR, office admin, photo/video services, etc. If more than one company needs it...they buy it or staff it. Everything is done in house. They even have a machine shop to create custom hardware parts.</p>
+<p><strong>IdeaLab Model</strong> - Start with an idea that is vetted by Bill Gross and his team of company builders. Prototype and test the idea using IdeaLab staff engineers. Conduct user tests. If everything looks good fund the idea with up to $250K. Assign a CEO from the lab, or recruit one from outside. Hire the founding team to build the MVP and get a beta version to market. At this point IdeaLabs may bring in VC investors, or they may decide to fund it themselves.</p>
+<p><strong>IdeaLab synergy</strong> - At any given time there are 10 to 15 companies incubating at IdeaLabs. They range in size from 5 people to 50 people. When any company reaches 100 people they need to move out on their own. There are no competing companies in the portfolio so founders easily share information, advice, introductions, and help out on short term needs.&#0160;Like other incubators, they bring in industry experts and successful founders for talks.</p>
+<p><strong>Want to help start a company?</strong> - You could come up with an idea yourself, recruit a team, pay for it out of your own pocket, build an MVP prototype, and then try to raise money from investors. It is a tough process, even for those that have done it before. Or, you could join Bill Gross at IdeaLabs as a founder and help build a new company. The financial rewards are significant, and the risks are much lower. Not for everyone, but a great opportunity for the right person. Contact Bill Gross at <a href="http://www.idealab.com/contact_us/" target="_self">IdeaLabs </a>to find out more.</p>
+<p><span style="color: #c00000;"><strong>Subscribe</strong>&#0160;</span>- To get an automatic feed of all future posts&#0160;<a href="https://feeds.feedburner.com/TheNextBigThing" target="_blank">subscribe here</a>, or to receive them via email&#0160;<a href="https://dondodge.typepad.com/the_next_big_thing/">go here and enter your email address</a>&#0160;in the box in the right column. You can also follow me on Twitter&#0160;<a href="https://twitter.com/dondodge" target="_blank">@dondodge</a>&#0160;and on&#0160;<a href="https://plus.google.com/?tab=XX#111288574156818690676/posts" target="_blank">Google+</a></p>
+			</div>
+			
+							<script src="https://feeds.feedburner.com/~s/TheNextBigThing?i=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F2012%2F08%2Fbill-gross-idealabs-a-different-kind-of-incubator.html" type="text/javascript"></script>
+			
+		</div>
+<div class="entry-meta pkg">
+	<div class="entry-meta-info">
+		<a href="https://dondodge.typepad.com/the_next_big_thing/2012/08/bill-gross-idealabs-a-different-kind-of-incubator.html">Aug 16, 2012 1:59:42 PM</a>
+	</div>
+	<div class="entry-facebook-like">
+     
+     <fb:like href="https://dondodge.typepad.com/the_next_big_thing/2012/08/bill-gross-idealabs-a-different-kind-of-incubator.html" layout="button_count" show_faces="false"></fb:like>
+     
+</div>
+</div>
+
+		<div class="entry-footer">
+			<ul class="entry-footer-feedback pkg">
+
+                <li><a href="javascript:var%20b=document.body;var%20TYPEPAD___bookmarklet_domain='https://www.typepad.com/';TYPEPAD___reblog_entryxid='6a00d8341bf9da53ef01761720af8c970c'; TYPEPAD___is_reblog = 1; if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.type='text/javascript');void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js');void(b.appendChild(z));}else{}" title="Grab this post for your own blog" class="entry-footer-reblog">Reblog It <span>0</span></a></li>
+	        </ul>
+		</div>
+	</div>
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://dondodge.typepad.com/the_next_big_thing/page/2/"><span class="pager-label"></span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner">
+						    
+<div class="module-profilefollowing module">
+	<div class="module-content">
+		<div class="userinfo pkg">
+			<div class="userinfo-userpic">
+				<a href="https://profile.typepad.com/dondodge"><img src="https://up2.typepad.com/6a00d8341bf9da53ef015433b63d3c970c-50si" alt="" width="50" height="50" class="userpic" /></a>
+			</div>
+			<div class="userinfo-username">
+				<h3><a href="https://profile.typepad.com/dondodge" style="text-decoration: none;">DonDodge</a></h3>
+				<p></p>
+			</div>
+		</div>
+		<div class="follow-data pkg">
+			<div id="user-following" class="user-following pkg">
+				<div class="user-contacts user-has-contacts">
+					<a rel="me" href="https://profile.typepad.com/dondodge/contacts" title="View all following" target="_parent"><span id="num-contacts" class="follow-num-size-l">1</span> Following</a>
+				</div>
+			</div>
+			<div class="user-followers">
+				<div class="user-num-contacts">
+					<a rel="me" href="https://profile.typepad.com/dondodge/followers" title="View all followers" target="_parent"><span id="num-followers" class="follow-num-size-l">157</span> Followers</a>
+				</div>
+			</div>
+			<div class="user-actions">
+				<iframe src="https://www.typepad.com/services/connect/profile_module?user_id=6p00d8341bf9da53ef&amp;follow_only=1&amp;mb=1&amp;align=center&amp;source_uri=https%3A%2F%2Fdondodge.typepad.com%2Fthe_next_big_thing%2F" width="100%" height="30" frameborder="0" scrolling="no" allowtransparency="true" id="follow-button-frame" name="follow-button-frame"></iframe>
+			</div>
+		</div>
+	</div>
+	<div class="module-list pkg">
+		<div class="module-list-item"><a href="https://profile.typepad.com/typepadeverything" target="_parent"><img src="https://up3.typepad.com/6a00d83451c82369e20168ebba2aa0970c-50si" alt="The Typepad Team" title="The Typepad Team" class="userpic" /></a></div>
+	</div>
+</div><div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://dondodge.typepad.com/.services/blog/6a00d8341bf9da53ef00d8341bf9dc53ef/search" class="form-search form-inline" role="search">
+
+            <input type="search" name="filter.q" results="5" value="" />
+            <input type="submit" value="Search" />
+            
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+
+<div class="module-elsewhere module">
+	<h2 class="module-header">My Other Accounts</h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item">
+				<a href="https://www.facebook.com/app_scoped_user_id/500013859" class="elsewhere-icon"><img src="https://static.typepad.com/.shared/images/profile/service_icons/facebook.png" alt="Facebook" width="16" height="16" /></a>
+				<a href="https://www.facebook.com/app_scoped_user_id/500013859" rel="me" class="elsewhere-servicename"><span class="elsewhere-servicename-service">Facebook</span><span class="separator"> | </span><span class="elsewhere-servicename-account">dondodge</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://twitter.com/DonDodge" class="elsewhere-icon"><img src="https://static.typepad.com/.shared/images/profile/service_icons/twitter.png" alt="Twitter" width="16" height="16" /></a>
+				<a href="https://twitter.com/DonDodge" rel="me" class="elsewhere-servicename"><span class="elsewhere-servicename-service">Twitter</span><span class="separator"> | </span><span class="elsewhere-servicename-account">DonDodge</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="module-recent-comments-mb module">
+	<h2 class="module-header">Recent Comments</h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8341bf9da53ef01774339504e970d-avatarimg" src="https://static.typepad.com/.shared/default-userpics/14-50si.gif" alt="arcade flash games" width="32" height="32" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>arcade flash games:</strong> Don, I think your description of how the index ... <span class="separator">|</span> <a href="https://dondodge.typepad.com/the_next_big_thing/2006/10/powerset_natura.html?cid=6a00d8341bf9da53ef01774339504e970d#comment-6a00d8341bf9da53ef01774339504e970d">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://dondodge.typepad.com/the_next_big_thing/2006/10/powerset_natura.html">Powerset - Natural Language Search</a></div> 
+    	        </div>
+			</li>
+			<li class="module-list-item pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8341bf9da53ef0168e9eef7b4970c-avatarimg" src="https://static.typepad.com/.shared/default-userpics/15-50si.gif" alt="get domain name" width="32" height="32" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>get domain name:</strong> To talk about it from the opposite point of vie... <span class="separator">|</span> <a href="https://dondodge.typepad.com/the_next_big_thing/2005/09/the_innovators_.html?cid=6a00d8341bf9da53ef0168e9eef7b4970c#comment-6a00d8341bf9da53ef0168e9eef7b4970c">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://dondodge.typepad.com/the_next_big_thing/2005/09/the_innovators_.html">Why The Next Big Thing doesn't usually come from market leaders</a></div> 
+    	        </div>
+			</li>
+			<li class="module-list-item last pkg">
+            	<div class="comment-avatar">
+            		<img id="comment-6a00d8341bf9da53ef0167608efc3e970b-avatarimg" src="https://static.typepad.com/.shared/default-userpics/04-50si.gif" alt="Vladimir Blagojevic" width="32" height="32" />
+            	</div>	
+            	<div class="comment-content">
+    				<div class="comment-content-excerpt"><strong>Vladimir Blagojevic:</strong> Thank you for the clear description of pain vs.... <span class="separator">|</span> <a href="https://dondodge.typepad.com/the_next_big_thing/2008/03/does-your-start.html?cid=6a00d8341bf9da53ef0167608efc3e970b#comment-6a00d8341bf9da53ef0167608efc3e970b">more »</a></div>
+    				<div class="comment-content-info">On <a href="https://dondodge.typepad.com/the_next_big_thing/2008/03/does-your-start.html">Does your startup solve a problem? Vitamin or pain killer?</a></div> 
+    	        </div>
+			</li>
+		</ul>
+	</div>
+</div>
+
+						    
+<!-- sidebar -->
+
+
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+		</div>
+	</div>
+	<div id="footer">
+	<div id="footer-inner">
+		<ul>
+			<li class="footer-link-syndicate"><a href="https://dondodge.typepad.com/the_next_big_thing/atom.xml">Subscribe to this blog's feed</a></li>
+			<li class="footer-link-poweredby"><a href="http://www.typepad.com/">Powered by Typepad</a></li>
+		</ul>
+	</div>
+</div>
+
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=210875&amp;user_id=513652&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-12345365-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+<!-- ph=1 -->
